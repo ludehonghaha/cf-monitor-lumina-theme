@@ -830,8 +830,8 @@ body {
 body.light {
   background-image:
     linear-gradient(
-      rgba(248, 250, 252, 0.58),
-      rgba(248, 250, 252, 0.58)
+      rgba(248, 250, 252, 0.28),
+      rgba(248, 250, 252, 0.28)
     ),
     url("https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/page-bg.jpg") !important;
 
