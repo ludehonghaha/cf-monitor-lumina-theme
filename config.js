@@ -59,11 +59,12 @@ window.LUMINA_CONFIG = {
     position: "center"
   },
 
-  "Lightlayer-US": {
+    "Lightlayer-US": {
     src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/lightlayer-us.jpg",
     alt: "Lightlayer-US",
     opacity: 0.55,
     fit: "cover",
     position: "center"
   }
-}
+  }
+};
