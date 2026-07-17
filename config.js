@@ -20,7 +20,7 @@ window.LUMINA_CONFIG = {
    */
   serverImages: {
   "dedirock-US": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/dedirock-us.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/dedirock-us.jpg",
     alt: "dedirock-US",
     opacity: 0.55,
     fit: "cover",
@@ -28,7 +28,7 @@ window.LUMINA_CONFIG = {
   },
 
   "dedione-US": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/dedione-us.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/dedione-us.jpg",
     alt: "dedione-US",
     opacity: 0.55,
     fit: "cover",
@@ -36,7 +36,7 @@ window.LUMINA_CONFIG = {
   },
 
   "zouter-HK": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/zouter-hk.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/zouter-hk.jpg",
     alt: "zouter-HK",
     opacity: 0.55,
     fit: "cover",
@@ -44,7 +44,7 @@ window.LUMINA_CONFIG = {
   },
 
   "Akile-JP": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/jp.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/jp.jpg",
     alt: "Akile-JP",
     opacity: 0.55,
     fit: "cover",
@@ -52,7 +52,7 @@ window.LUMINA_CONFIG = {
   },
 
   "datewave-tw": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/datewave-tw.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/datewave-tw.jpg",
     alt: "datewave-tw",
     opacity: 0.55,
     fit: "cover",
@@ -60,7 +60,7 @@ window.LUMINA_CONFIG = {
   },
 
     "Lightlayer-US": {
-    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/lightlayer-us.jpg",
+    src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@d7d915d6f6248550084ee0a5ea43e42fe6cdd12f/assets/lightlayer-us.jpg",
     alt: "Lightlayer-US",
     opacity: 0.55,
     fit: "cover",
