@@ -22,6 +22,7 @@ window.LUMINA_CONFIG = {
     "Akile-JP": {
       src: "https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/jp.jpg",
       alt: "Akile-JP",
+      opacity: 0.48,
       height: 120,
       fit: "cover",
       position: "center 45%"
