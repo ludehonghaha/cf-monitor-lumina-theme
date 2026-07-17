@@ -807,3 +807,36 @@ table tbody tr:hover td {
     transition-duration: 0.01ms !important;
   }
 }
+/* =========================================================
+   自定义主体页面背景
+   ========================================================= */
+
+body {
+  background-image:
+    linear-gradient(
+      rgba(11, 16, 32, 0.42),
+      rgba(11, 16, 32, 0.42)
+    ),
+    url("https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/page-bg.jpg") !important;
+
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+/* 浅色模式 */
+
+body.light {
+  background-image:
+    linear-gradient(
+      rgba(248, 250, 252, 0.58),
+      rgba(248, 250, 252, 0.58)
+    ),
+    url("https://cdn.jsdelivr.net/gh/ludehonghaha/cf-monitor-lumina-theme@main/assets/page-bg.jpg") !important;
+
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
